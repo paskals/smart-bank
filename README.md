@@ -1,0 +1,1 @@
+# Smart Bank - a smart-contract based wallet for everyone!
